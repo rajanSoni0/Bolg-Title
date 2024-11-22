@@ -38,6 +38,7 @@ h1 {
     text-decoration: none;
     color: inherit;
     transition: transform 0.5s, box-shadow 0.5s;
+    padding-bottom: 40px; /* Add space at the bottom */
 }
 
 .box:hover {
